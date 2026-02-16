@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Hello, I'm Chaeyoung Yoo!
 
-<!--
-**ooyoo80/ooyoo80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Aspiring Product Manager & Backend Developer | CS & Business Administration**
+> 
+> I am passionate about **performance optimization** and **system scalability** in product development. With a keen interest in the **XRPL (XRP Ledger)** ecosystem and blockchain efficiency, I focus on building robust services that bridge technical depth with business value. My goal is to lead scalable products by leveraging data-driven insights and high-performance system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+| Category | Details |
+| :--- | :--- |
+| **University** | **Sookmyung Women's University** |
+| **Major** | **Computer Science** (Undergraduate, Sophomore) |
+| **Double Major** | **Business Administration** (Expected) |
+
+### 💼 Experience & Activities
+| Period | Organization / Activity | Role |
+| :--- | :--- | :--- |
+| **2025.03 - Pres.** | **FORZA (Sookmyung IT Club)** | Backend Study & C Programming Mentoring |
+| **2025.07 - 2025.12** | **Codyssey (Innovation Academy)** | AI-Powered Software Development Course |
+
+### 📂 Key Projects
+| Project Name | Key Achievements (Backend Focus) | Tech Stack |
+| :--- | :--- | :--- |
+| **[Self-Check Kiosk v2.0](https://github.com/ooyoo80/Self-Check-kiosk)** | • **Refactored** to **Client-Server Architecture** using **FastAPI**.<br>• **Designed RESTful APIs** & integrated **SQLite** database.<br>• **Implemented Security** (Admin Auth) using **Bcrypt & JWT**. | Python, FastAPI,<br>SQLite, Pydantic |
+| **[Kiosk Lite v1.0](https://github.com/ooyoo80/Codyssey_Term_Project)** | • **Developed Frontend MVP** using **Vanilla JavaScript**.<br>• Implemented **UI/UX flow** and dynamic cart logic.<br>• Prototyped client-side payment simulation. | HTML5, CSS3,<br>JavaScript |
+| **XRPL Exploration** | Researching blockchain transaction processes and NFT minting on the **XRP Ledger**. | Python, XRPL |
+
+### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+
+---
+
+### 📊 GitHub Stats
+![Chaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooyoo80&show_icons=true&theme=radical&hide_border=true&count_private=true)

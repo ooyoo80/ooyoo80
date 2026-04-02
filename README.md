@@ -16,7 +16,9 @@
 ### 💼 Experience & Activities
 | Period | Organization / Activity | Role |
 | :--- | :--- | :--- |
-| **2025.03 - Pres.** | **FORZA (Sookmyung IT Club)** | Frontend Study & C Programming Mentoring |
+| **2026.03 - pres.** | **APPS (Sookmyung Dev Club)** | Full-stack Web Study (Specializing in Backend) |
+| **2026.03 - pres.** | **ENACTUS Sookmyung (Social Entrepreneurship Club)** | Service Planning & Strategy |
+| **2025.03 - 2026.02** | **FORZA (Sookmyung IT Club)** | Frontend Study & C Programming Mentoring |
 | **2025.07 - 2025.12** | **Codyssey (Innovation Academy)** | AI-Powered Software Development Course |
 
 ### 📂 Key Projects
